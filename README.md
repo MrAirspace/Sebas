@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SebasAachen
+- 👋 Hi, I’m Sebastiaan @MrAirspace
 - 👀 I’m interested in Python + aviation
-- 💞️ I’m looking to collaborate on aviation topics
 
 <!---
 SebasAachen/SebasAachen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
